@@ -45,7 +45,7 @@ a.nav-link {
 
 /* Hero Style */
 
-section.hero {
+section#hero {
   background: linear-gradient(300deg, #c8acd6, #433d8b, #915491);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
