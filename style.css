@@ -50,7 +50,6 @@ section#hero {
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
   margin: 5rem 0;
-  padding-top: 20px;
   padding-bottom: 20px;
 }
 
